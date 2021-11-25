@@ -1,0 +1,17 @@
+body {
+  min-height: 2000px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #4b4b4b;
+  color: white;
+}
+
+#sertifikat {
+  background-color: #4b4b4b;
+}
+
+section {
+  padding-top: 5rem;
+}
